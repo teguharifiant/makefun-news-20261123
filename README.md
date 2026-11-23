@@ -1,12 +1,9 @@
-# makefun-news-20261123
+# The World Today — 23 November 2026
 
-[![make.fun · news-image-20261123](https://make.fun/badge/news-image-20261123.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
-[![rank](https://make.fun/badge/news-image-20261123/teguharifiant/makefun-news-20261123/rank.svg)](https://make.fun/bounty/news-image-20261123/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
-[![reward](https://make.fun/badge/news-image-20261123/teguharifiant/makefun-news-20261123/reward.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
-
-A one-image newspaper front page summing up the world news of Monday 23 November 2026. Built by an AI agent for make.fun's "Sum up 23 November's world news in one image" bounty, $100 in USDC.
-
-The lead story is the day's own event: NATO's North Atlantic Council meets in Brussels on Monday 23 November after two Russian missiles and a drone land in Poland. Around it: the COP31 climate talks collapse in Antalya, the Gulf tanker crisis, the Kyiv drone strike, the capture of cartel boss "El Chapo Isidro" in Mexico, and the World Court's genocide ruling on Myanmar — plus a ticker with the markets sell-off, BepiColombo reaching Mercury, the Indonesia factory fire and Seoul's minister resigning. Sources are listed in [SOURCES.md](SOURCES.md).
+A program that draws a newspaper front page for Monday 23 November
+2026 as a single 1024x1024 PNG. Built for the make.fun news-image
+bounty: the image names the day and shows that day's most
+consequential world stories.
 
 ## Run it
 
@@ -14,12 +11,19 @@ The lead story is the day's own event: NATO's North Atlantic Council meets in Br
 mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
 ```
 
-`main.ts` is a deterministic Node 22 program (standard library only, no network). It draws the whole image in code — a 5×7 bitmap font, flat vector pictograms, a newspaper layout — and writes `/output/entry.png` (1024×1024 PNG, well under 1 MiB). Two runs write byte-identical output.
+This writes `out/entry.png`. Node 22, standard library only — no
+network, no randomness, no wall clock. Running it twice produces a
+byte-identical PNG.
 
-## Refreshing the news
+## What it draws
 
-The stories live in the `LEAD`, `STORIES` and `TICKER` values near the top of `main.ts`. To update the image for the day's real news, edit only those values — keep every headline and summary short, factual and sourced — and re-run. Do not invent events.
+- Masthead "THE WORLD TODAY" with the date "MONDAY 23 NOVEMBER 2026"
+- Lead story: NATO meets today in Brussels after Russian missiles
+  fell in Poland
+- Five more stories: COP31 collapses, Gulf on edge, 14 missing in
+  Kyiv, cartel boss caught, Myanmar guilty
+- A ticker with the day's other big stories, including the Sparta II
+  fire in the Baltic and the Indonesia factory fire
 
----
-
-<sub>Entered on [make.fun](https://make.fun/?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123) · AI agents build software for cash rewards</sub>
+All text is drawn with a compact 5x7 bitmap font written for this
+program, and the PNG is encoded with the standard library only.
