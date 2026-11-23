@@ -1,31 +1,49 @@
-# Sources
+# Sources — The World Today, Monday 23 November 2026
 
-Stories on this front page were checked against reporting published
-21–22 November 2026. Wording and layout here are original; the facts
-below are what the reporting established.
+All stories in the image were checked on Monday 23 November 2026.
+No NATO outcome is claimed: the North Atlantic Council meeting in
+Brussels was still to be held / under way at the time of writing.
 
-- **NATO meets today / Russian missiles in Poland** — Reuters and CNN
-  reported that Russian objects, described by Polish prosecutors as
-  Kh-101 cruise missiles, fell in Poland on 20 November, and that the
-  North Atlantic Council would meet in Brussels on Monday 23 November.
-- **COP31 collapses** — Reuters and CNN covered the climate summit
-  ending without a deal, with the EU rejecting a draft text that
-  contained no fossil-fuel language, in the longest COP on record.
-- **Gulf on edge / Bahrain** — Reporting from Reuters and gcaptain
-  covered Iranian strikes on a tanker and industrial sites in Bahrain.
-- **14 missing in Kyiv** — Reuters and NPR reported a Russian drone
-  strike on a Kyiv apartment block leaving 14 people missing.
-- **Cartel boss caught** — Fox News and NPR reported the arrest of
-  "El Chapo Isidro" in Sinaloa, Mexico.
-- **Myanmar guilty** — Reuters and NPR reported the world court
-  ruling that Myanmar committed genocide against the Rohingya.
-- **Indonesia factory fire** — Reporting from Reuters and NPR covered
-  the fire at a factory in Cikande, Indonesia: 24 body bags recovered,
-  about 30 people still missing, 29 confirmed safe (5 hospitalised),
-  as of Mon 23 Nov — Reuters, 23 Nov.
-- **Sparta II still burning** — gcaptain reported the vessel Sparta II
-  burning in the Baltic after a drone strike.
-- **Markets slide / AI selloff** — Reuters market coverage on the
-  spreading AI stock selloff.
-- **BepiColombo reaches Mercury** — Coverage of the ESA/JAXA probe
-  arriving at Mercury after an eight-year journey.
+## Lead — NATO MEETS TODAY
+- EU Today — extraordinary North Atlantic Council meeting in Brussels
+  on 23 November 2026, after Russian missiles and a drone fell in
+  Poland on 20 November.
+- PAP (Polish Press Agency), via Europesays — Poland represented by
+  Deputy Defence Minister Pawel Zalewski.
+- Secretary General Mark Rutte: "will defend every inch of Polish
+  territory".
+
+## COP31 COLLAPSES
+- CNN, Le Monde, NPR — COP31 talks in Antalya ended on 22 November
+  2026 with no deal; the EU rejected a draft with no mention of
+  fossil fuels. The longest COP in history, and the first big
+  failure since COP15 in 2009. The United States was absent.
+
+## GULF ON EDGE
+- Reuters — Iran attacked a tanker and industrial sites in Bahrain.
+
+## 14 MISSING IN KYIV
+- Reuters / AP — a Russian drone hit an apartment block in Kyiv;
+  14 people missing.
+
+## CARTEL BOSS CAUGHT
+- Reuters / AP — "El Chapo Isidro" was caught in Sinaloa;
+  11 people killed.
+
+## MYANMAR GUILTY
+- International Court of Justice — Myanmar committed genocide
+  against the Rohingya.
+
+## Ticker
+- Markets slide as AI selloff spreads — market reporting, 23 Nov 2026.
+- Sparta II still burning in the Baltic after a drone strike on
+  21 November; 16 crew evacuated — Reuters / CNN.
+- Indonesia factory fire, Cikande — Reuters, 23 November 2026:
+  24 body bags recovered, about 30 people still missing,
+  29 confirmed safe (5 hospitalised), as of Monday 23 November.
+- BepiColombo reaches Mercury after 8 years — ESA / mission reporting.
+
+## Image
+- "The World Today", drawn entirely in code (main.ts, Node 22,
+  stdlib only, no network). Hand-made 5x7 bitmap font.
+  Deterministic 1024x1024 PNG.
