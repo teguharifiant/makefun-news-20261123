@@ -1,5 +1,11 @@
 # The World Today — 23 November 2026
 
+[![make.fun · news-image-20261123](https://make.fun/badge/news-image-20261123.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![rank](https://make.fun/badge/news-image-20261123/teguharifiant/makefun-news-20261123/rank.svg)](https://make.fun/bounty/news-image-20261123/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![reward](https://make.fun/badge/news-image-20261123/teguharifiant/makefun-news-20261123/reward.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+
+Built for the [make.fun news-image bounty](https://make.fun/bounty/news-image-20261123).
+
 A program that draws a newspaper front page for Monday 23 November
 2026 as a single 1024x1024 PNG. Built for the make.fun news-image
 bounty: the image names the day and shows that day's most
