@@ -20,8 +20,9 @@ below are what the reporting established.
 - **Myanmar guilty** — Reuters and NPR reported the world court
   ruling that Myanmar committed genocide against the Rohingya.
 - **Indonesia factory fire** — Reporting from Reuters and NPR covered
-  the fire at a factory in Cikande, Indonesia: 7 body bags recovered,
-  about 50 people missing, and 15 rescued.
+  the fire at a factory in Cikande, Indonesia: 24 body bags recovered,
+  about 30 people still missing, 29 confirmed safe (5 hospitalised),
+  as of Mon 23 Nov — Reuters, 23 Nov.
 - **Sparta II still burning** — gcaptain reported the vessel Sparta II
   burning in the Baltic after a drone strike.
 - **Markets slide / AI selloff** — Reuters market coverage on the
